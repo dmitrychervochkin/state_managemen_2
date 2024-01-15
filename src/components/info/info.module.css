@@ -1,0 +1,9 @@
+.status{
+	height: 50px;
+	width: 320px;
+	border: 2px solid white;
+	margin-bottom: 20px;
+	padding: 5px;
+	border-radius: 30px;
+	line-height: 50px;
+}
